@@ -1,0 +1,30 @@
+{
+  "name": "simple-react-skeleton",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "webpack": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kojelinhd/simple-react-skeleton.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-core": "^6.22.1",
+    "babel-loader": "^6.2.10",
+    "babel-preset-es2017": "^6.22.0",
+    "babel-preset-react": "^6.22.0",
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2",
+    "react-redux": "^5.0.2",
+    "redux": "^3.6.0",
+    "redux-devtools": "^3.3.2",
+    "webpack": "^1.14.0"
+  },
+  "dependencies": {
+    "react-redux": "^5.0.2"
+  }
+}
